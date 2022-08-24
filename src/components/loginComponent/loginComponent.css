@@ -1,0 +1,14 @@
+.container-login {
+  margin: auto !important;
+  justify-content: center;
+}
+
+.container-card {
+  padding: 40px;
+  width: 400px;
+  height: max-content;
+}
+
+.btn-submit {
+  width: 100%;
+}
