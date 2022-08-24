@@ -1,4 +1,4 @@
-# This is a project to interview of OTIF
+# This is a project to the interview of OTIF
 
 ## Available Scripts 
 
@@ -26,3 +26,9 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+## Enviroment
+
+### `.env file`
+
+You need an environment variable names `REACT_APP_API` with the api url  
